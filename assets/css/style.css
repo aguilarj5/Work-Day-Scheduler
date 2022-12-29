@@ -1,0 +1,38 @@
+section {
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+.timeHour {
+    width: 5%;
+    border-style: dashed;
+    border-top-width: 1px;
+    border-left: 0px;
+    border-right: solid;
+    border-right-width: 1px;
+    border-bottom: 0px;
+
+}
+
+.task {
+    width: 90%;
+    background-color: grey;
+    border-style: none;
+}
+
+.btnSave {
+    width: 5%;
+    border-style: none;
+    border-left: solid;
+    border-left-width: 1px;
+    border-radius: 5px;
+    background-color: rgb(24, 172, 240);
+}
+
+h2 {
+    font-size: 32px;
+}
+
+
+
