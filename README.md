@@ -15,7 +15,7 @@ N/A
 ### Project Preview
 ![alt Preview of WebPage](./assets/images/preview.jpg)
 ### How to Use
-The webpage can be found on the following this link [here.](https://aguilarj5.github.io/Coding-Quiz-Challenge/)
+The webpage can be found on the following this link [here.](https://aguilarj5.github.io/Work-Day-Scheduler/)
 
 ### Credits
 Coding Bootcamp

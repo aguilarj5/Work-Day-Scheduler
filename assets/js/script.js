@@ -13,5 +13,5 @@ currentTime.textContent = weekDay[day] + ", " + month[monthNum] + " " + d.getDat
 btnPress.addEventListener('click', saveTask);
 
 function saveTask() {
-    console.log("hello");
+    console.log("1");
 }
