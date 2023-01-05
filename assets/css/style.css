@@ -4,6 +4,10 @@ section {
     margin-bottom: 2px;
 }
 
+header {
+    align-self: center;
+}
+
 .timeHour {
     width: 5%;
     border-style: dashed;
